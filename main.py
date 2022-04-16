@@ -7,10 +7,6 @@ from functions import update_coords, load_plot, save_plot, zoomable, wait_for_mo
 
 
 """
-map1.csv is Panther
-map2.csv is Gmoney
-( you can use your own map IDs 
-
 live_scatter() - shows live data
 detect_move() - uses keylogger to track movement
 """
