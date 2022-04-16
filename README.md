@@ -1,5 +1,5 @@
 # Cave-Game
-@crewmateJ on Twitter
+Connect with me on Twitter! @crewmateJ
 
 <br>
 
@@ -9,10 +9,6 @@ Basic Python keylogger to display Wolf Game Cave Game path in a live scatter plo
 
 YOU ARE RESPONSIBLE FOR USING THIS CODE. ALWAYS UNDERSTAND THE CODE YOU ARE RUNNING
 ON YOUR COMPUTER WHEN IT COMES TO NFTS AND CRYPTO. DYOR
-
-<br>
-
-Submit any feedback to me on Twitter! 
 
 <br>
 
