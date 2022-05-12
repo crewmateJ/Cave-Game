@@ -55,6 +55,8 @@ def detect_move():
         if move == "esc":
             print("Ending detection, please close graph window... ")
             plt.close()
+            save_plot(x, y, coords, pack)
+            exit()
             return
         # numlock allows you to switch animals within the same map
         if move == "numlock":
@@ -79,6 +81,3 @@ ani = FuncAnimation(plt.gcf(), live_scatter, interval=500)
 plt.show()
 
 print("Saving map data. Program closing... ")
-
-save_plot(x, y, coords, pack)
-
